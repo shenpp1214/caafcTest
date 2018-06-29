@@ -42,7 +42,7 @@
     </target>
     <!-- ·¢ËÍÓÊ¼þ -->
 		<target name="sendmail" description="aa">
-        <mail mailhost="smtp.exmail.qq.com" user="shenpp@cpsdna.com" password="!QAZ2wsx" subject="JmeterTestResult" mailport="25">
+        <mail mailhost="smtp.exmail.qq.com" user="shenpp@cpsdna.com" password="!QAZ2wsx" subject="CaafcTestResult" mailport="25">
             <from address="shenpp@cpsdna.com" />
             <to address="${mail_to}" />
             <message></message>
